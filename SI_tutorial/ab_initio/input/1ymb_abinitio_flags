@@ -1,0 +1,13 @@
+-abinitio
+  -relax
+-in
+  -file
+    -fasta 1ymb_A.fasta
+    -frag3 1ymb_frags3
+    -frag9 1ymb_frags9
+    -native 1ymb_A.pdb
+-out
+  -pdb
+  -file
+    -scorefile 1ymb_abinitio_scores.sc
+-nstruct 10

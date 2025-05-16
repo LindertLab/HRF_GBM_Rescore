@@ -1,0 +1,3 @@
+-score
+  -hrf_gbm_input 1YMB_A_predicted_NC.out
+  -weights hrf_gbm.wts
